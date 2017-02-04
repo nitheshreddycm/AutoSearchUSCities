@@ -1,0 +1,41 @@
+
+        
+        body{
+        background-image: url("screenshots/nyc_bg.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+        #countries{
+            position: absolute;
+            top:150px;
+            left:500px;
+            width:450px;
+            height:40px;
+            border:solid grey 2px;
+        }
+        
+        #result{
+            position: absolute;
+            top:190px;
+            left:500px;
+            width:446px;
+          color: black;
+            border:solid grey 2px;
+        }
+        
+        li{
+            list-style: none;
+            position: relative;
+            right: 27px;
+            
+        }
+        
+        li span{
+            float: right;
+        }
+        h2{
+            font-size: 50px;
+            font-family:monospace;
+            position: absolute;
+            left: 520px;
+}
